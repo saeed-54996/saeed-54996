@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=F74736&background=F8FFF400&width=470&lines=Hi%3BWelcome%20to%20my%20Github%20page%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=500&color=F74736&background=F8FFF400&width=470&lines=Hi%3BWelcome%20to%20my%20Github%20page%21)](https://git.io/typing-svg)
 ---
 ## About Me
 CEO of Khyaboon.ir & Filix.ir ,Tech Blogger, IT activist  🔧
