@@ -4,7 +4,7 @@ I was born to solve problems, but I was born in the sea of problems 🔧
 ## Skills
 <p align="left">
  <a href="https://github.com/saeed-54996">
-   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,jquery,docker,git,github,gitlab,mysql,sqlite,nodejs,vue,nuxtjs,blender,cs,figma,ai,pr,ae,linux,md,bash,py,threejs,unity,unreal" />
+   <img src="https://skillicons.dev/icons?i=html,css,php,git,github,mysql,blender,figma,ps,ai,pr,ae,linux,py" />
  </a>
 </p>
 
