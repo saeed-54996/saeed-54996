@@ -1,5 +1,5 @@
 ## About Me
-I was born to solve problems, but I was born in the sea of problems 🔧
+CEO of Khyaboon.ir & Filix.ir ,Tech Blogger, IT activist  🔧
 
 ## Skills
 <p align="left">
