@@ -4,7 +4,7 @@ CEO of Khyaboon.ir & Filix.ir ,Tech Blogger, IT activist  🔧
 ## Skills
 <p align="left">
  <a href="https://github.com/saeed-54996">
-   <img src="https://skillicons.dev/icons?i=html,css,php,py,linux,ubuntu,xray,vpn,git,github,mysql,blender,figma,ps,ai,pr,ae" />
+   <img src="https://skillicons.dev/icons?i=html,css,php,py,linux,ubuntu,cloudflare,git,github,mysql,blender,figma,ps,ai,pr,ae" />
  </a>
 </p>
 
