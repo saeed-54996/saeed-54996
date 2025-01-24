@@ -2,12 +2,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/80854866/230465477-685b9e89-3ba4-4ea2-b14c-1ba0d9d4d243.svg" alt="Welcome Banner" width="600px">
-</div>
-
----
-
 ## 🌟 About Me
 👨‍💻 CEO of [Khyaboon.ir](https://khyaboon.ir) & [Filix.ir](https://filix.ir)  
 📝 Tech Blogger, IT Activist, and lifelong learner  
@@ -27,11 +21,7 @@
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saeed-54996&theme=nord&show_icons=true&hide_border=true&count_private=true" height="170px" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-54996&theme=nord&show_icons=true&hide_border=true&layout=default&langs_count=8" height="170px" alt="Top Languages">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeed-54996&theme=nord&hide_border=true" height="170px" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-54996&theme=nord&show_icons=true&hide_border=true&count_private=true" height="170px" alt="Top Languages">
 </div>
 
 ---
