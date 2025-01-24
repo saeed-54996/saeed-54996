@@ -20,8 +20,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeed-54996&theme=nord&show_icons=true&hide_border=true&count_private=true" height="170px" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-54996&theme=nord&show_icons=true&hide_border=true&count_private=true" height="170px" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=saeed-54996&theme=nord&show_icons=true&hide_border=true&count_private=true" height="200px" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-54996&theme=nord&show_icons=true&hide_border=true&count_private=true" height="200px" alt="Top Languages">
 </div>
 
 ---
