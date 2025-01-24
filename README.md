@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/80854866/251865590-96096c8b-d474-4baf-9176-8e5bf2f45e7e.gif" width="300px" alt="welcome gif">
+  <img src="https://user-images.githubusercontent.com/80854866/230465477-685b9e89-3ba4-4ea2-b14c-1ba0d9d4d243.svg" alt="Welcome Banner" width="600px">
 </div>
 
 ---
@@ -11,14 +11,14 @@
 ## 🌟 About Me
 👨‍💻 CEO of [Khyaboon.ir](https://khyaboon.ir) & [Filix.ir](https://filix.ir)  
 📝 Tech Blogger, IT Activist, and lifelong learner  
-⚙️ Passionate about technology, coding, and creative problem-solving
+⚙️ Passionate about technology, coding, and creative problem-solving  
 
 ---
 
 ## 🛠️ Skills
 <p align="center">
   <a href="https://github.com/saeed-54996">
-    <img src="https://skillicons.dev/icons?i=html,css,php,py,linux,ubuntu,cloudflare,git,github,mysql,blender,figma,ps,ai,xd,pr,ae&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,py,linux,ubuntu,cloudflare,git,github,mysql,blender,figma,ps,ai,xd,pr,ae&perline=8" />
   </a>
 </p>
 
@@ -26,8 +26,12 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeed-54996&theme=nord&show_icons=true&hide_border=true&count_private=true" height="150px" alt="Saeed Ghorbani's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-54996&theme=nord&show_icons=true&hide_border=true&layout=compact" height="150px" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=saeed-54996&theme=nord&show_icons=true&hide_border=true&count_private=true" height="170px" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-54996&theme=nord&show_icons=true&hide_border=true&layout=default&langs_count=8" height="170px" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeed-54996&theme=nord&hide_border=true" height="170px" alt="GitHub Streak">
 </div>
 
 ---
@@ -41,7 +45,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/saeed-ghorbani/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/saeed54996/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://t.me/saeed_54996"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:ghorbani.saeed82@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -52,6 +56,3 @@
 When I'm not coding, you can find me exploring photography, diving into creative projects, or experimenting with new technologies.
 
 ---
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeed-54996&theme=nord&hide_border=true" alt="GitHub Streak">
-</div>
